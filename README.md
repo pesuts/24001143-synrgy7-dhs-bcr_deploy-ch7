@@ -9,10 +9,9 @@ BCR - Car Rental - Deploy
 **Daniel Hasiando Sinaga - FSW1**
 daniel.sinaga.ds@gmail.com
 
-## REPOSITORY
 ---
 ### FrontEnd
-https://netlify/
+https://main--bcr-ch7-daniel.netlify.app/
 
 ### Backend
 https://bcr-api-ch7-4v2butogya-uc.a.run.app/
@@ -24,6 +23,22 @@ https://github.com/pesuts/pesuts-24001143-synrgy7-dhs-bcr_react-ch7
 
 ### Backend
 https://github.com/pesuts/24001143-synrgy7-dhs-bcr_api_docs-ch6
+
+---
+## CREDENTIAL
+
+**Superadmin:** 
+email: superadmin@mail.com  
+password: password
+
+
+**Admin:** 
+email: admin@mail.com  
+password: password
+
+**User**
+email: user@mail.com  
+password: password
 
 ---
 
